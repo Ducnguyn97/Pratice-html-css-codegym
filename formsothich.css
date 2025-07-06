@@ -1,0 +1,36 @@
+
+.form-cotainer {
+    max-width: 500px;
+    margin: 20px auto;
+    background-color: aqua;
+    padding: 20px;
+    border: 1px solid #cccccc;
+}
+.title{
+    text-align: center;
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.label-blue{
+    color: blue;
+    font-weight: bold;
+}
+.input-text{
+    width: 250px;
+    height: 25px;
+    box-shadow: 0 2px 3px #888;
+    border: 1px  solid #5f6062;
+    padding: 5px;
+    font-size: 14px;
+}
+.hobby{
+    color: orangered;
+    margin-right: 15px;
+}
+.button-row input{
+    padding: 5px 15px;
+    margin-top: 10px;
+}
