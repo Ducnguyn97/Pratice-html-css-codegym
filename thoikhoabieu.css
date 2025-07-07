@@ -1,0 +1,24 @@
+table{
+    border: black solid 1px;
+    width: 100%;
+    height:auto;
+    text-align: center;
+    border-collapse:collapse;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+}
+th,td{
+    border: 1px solid #888888;
+    padding: 5px;
+}
+.label-blue{
+    color: blue;
+}
+#orange{
+    color: black;
+    background-color: orange;
+}
+#yellow{
+    color: black;
+    background-color: yellow;
+}
